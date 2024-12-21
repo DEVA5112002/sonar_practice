@@ -1,0 +1,66 @@
+﻿@page
+@using AeS.PageQuery
+@using Microsoft.Extensions.Configuration
+@model IndexModel
+@{
+    ViewData["Title"] = "Home page";
+}
+
+<div class="text-center">
+    <!-- <h1 class="display-4">Welcome</h1>
+     <p>Learn about <a href="https://docs.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>-->
+    @if (((System.Security.Claims.ClaimsIdentity)User.Identity).IsAuthenticated)
+    {
+        @if (User.Identity.Name != null)
+        {
+
+            var MyConfig = new ConfigurationBuilder().AddJsonFile("C:\\Users\\devananth.s\\Downloads\\Copmany_Auth\\Comapny_Details.json").Build();
+            var tenantID = MyConfig.GetValue<string>("CLOUD:CustomerID");
+            var strAdrenalinPortal = MyConfig.GetValue<string>("CLOUD:CloudURL");
+
+            //var tenantID = System.Configuration.ConfigurationManager.AppSettings.Get("ida:TenantID");  //ConfigurationManager.AppSettings["ida:TenantID"];
+            //string strAdrenalinPortal = System.Configuration.ConfigurationManager.AppSettings.Get("ida:CloudRedirectUrl");
+            AeS.ADFSSAML_MAX.SecureQueryString objparamString = new AeS.ADFSSAML_MAX.SecureQueryString();
+            objparamString["SSO_CompanyId"] = tenantID;
+            objparamString["SSO_EmployeeMailID"] = @User.Identity.Name;
+            objparamString["SSO_EmployeeName"] = @User.Identity.Name;
+            objparamString["OPENDATE"] = DateTime.Now.ToString("s", new System.Globalization.CultureInfo("en-CA"));
+
+            AeS.Constants.AeS_SessionInfo objAeS_SessionInfo = new AeS.Constants.AeS_SessionInfo();
+            objAeS_SessionInfo.CompanyID = tenantID;
+
+           {
+                @foreach (var claim in User.Claims)
+                {
+                    AeS.Utility.CHelperFunctions.RecordEvents(objAeS_SessionInfo, claim.Type + " : " + claim.Value, "SSO Log");
+                }
+            }
+
+
+
+      //      @foreach (var claim in User.Claims)
+       //     {
+        //        var message = claim.Type + " : " + claim.Value;
+        //        AeS.Utility.CHelperFunctions.RecordEvents(objAeS_SessionInfo, message, "SSO Log");
+        //    } 
+
+
+        
+
+
+            Response.Redirect(strAdrenalinPortal + "?param=" + objparamString.ToString());
+
+        }
+        else
+        {
+            Response.Redirect("Auth/Login");
+            return;
+        }
+    }
+    else
+    {
+
+        Response.Redirect("Auth/Login");
+        return;
+    }
+</div>

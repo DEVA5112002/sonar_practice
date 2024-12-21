@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\AeS.ADFSSAML_MAX.props" />
+</Project>

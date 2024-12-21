@@ -1,0 +1,1 @@
+Roslyn version: 4.12.0.0Language version: CSharp8!Concurrent execution: enabledª¥File 'C:\Users\devan\Downloads\AeS.ADFSSAML_MAX (1)\AeS.ADFSSAML_MAX\obj\Debug\netcoreapp3.1\AeS.ADFSSAML_MAX.RazorTargetAssemblyInfo.cs' was recognized as generated

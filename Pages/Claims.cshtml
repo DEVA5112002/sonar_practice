@@ -1,0 +1,29 @@
+@page
+@using AeS.PageQuery
+@model ClaimsModel
+@{
+    ViewData["Title"] = "Home page";
+}
+
+<div class="row">
+    <div class="col-md-12">
+        <h2>The users Claims (Iteration on User.Claims)</h2>
+        <p>
+            @foreach (var claim in User.Claims)
+            {               
+
+             /*   var tenantID = System.Configuration.ConfigurationManager.AppSettings.Get("ida:TenantID");  //ConfigurationManager.AppSettings["ida:TenantID"];
+                string strAdrenalinPortal = System.Configuration.ConfigurationManager.AppSettings.Get("ida:CloudRedirectUrl");
+                SecureQueryString objparamString = new SecureQueryString();
+                objparamString["SSO_CompanyId"] = tenantID;
+                objparamString["SSO_EmployeeMailID"] = username;
+                objparamString["SSO_EmployeeName"] = Name;
+                objparamString["OPENDATE"] = DateTime.Now.ToString("s", new System.Globalization.CultureInfo("en-CA"));
+                Response.Redirect(strAdrenalinPortal + "?param=" + objparamString.ToString());
+
+                */
+               <strong>@claim.Type</strong> <br /> <span style="padding-left: 10px">Value: @claim.Value</span> <br />
+            }
+        </p>
+    </div>
+</div>

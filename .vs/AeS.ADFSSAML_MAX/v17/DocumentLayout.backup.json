@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\devan\\Downloads\\AeS.ADFSSAML_MAX (1)\\AeS.ADFSSAML_MAX\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2A54C3DC-601F-41CC-9183-36471913553B}|AeS.ADFSSAML_MAX.csproj|c:\\users\\devan\\downloads\\aes.adfssaml_max (1)\\aes.adfssaml_max\\aes.adfssaml_max.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{2A54C3DC-601F-41CC-9183-36471913553B}|AeS.ADFSSAML_MAX.csproj|solutionrelative:aes.adfssaml_max.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A54C3DC-601F-41CC-9183-36471913553B}|AeS.ADFSSAML_MAX.csproj|c:\\users\\devan\\downloads\\aes.adfssaml_max (1)\\aes.adfssaml_max\\securequerystring.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A54C3DC-601F-41CC-9183-36471913553B}|AeS.ADFSSAML_MAX.csproj|solutionrelative:securequerystring.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A54C3DC-601F-41CC-9183-36471913553B}|AeS.ADFSSAML_MAX.csproj|c:\\users\\devan\\downloads\\aes.adfssaml_max (1)\\aes.adfssaml_max\\pages\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A54C3DC-601F-41CC-9183-36471913553B}|AeS.ADFSSAML_MAX.csproj|solutionrelative:pages\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A54C3DC-601F-41CC-9183-36471913553B}|AeS.ADFSSAML_MAX.csproj|c:\\users\\devan\\downloads\\aes.adfssaml_max (1)\\aes.adfssaml_max\\pages\\claimstransform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A54C3DC-601F-41CC-9183-36471913553B}|AeS.ADFSSAML_MAX.csproj|solutionrelative:pages\\claimstransform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A54C3DC-601F-41CC-9183-36471913553B}|AeS.ADFSSAML_MAX.csproj|c:\\users\\devan\\downloads\\aes.adfssaml_max (1)\\aes.adfssaml_max\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A54C3DC-601F-41CC-9183-36471913553B}|AeS.ADFSSAML_MAX.csproj|solutionrelative:startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\devan\\Downloads\\AeS.ADFSSAML_MAX (1)\\AeS.ADFSSAML_MAX\\Pages\\AuthController.cs",
+              "RelativeDocumentMoniker": "Pages\\AuthController.cs",
+              "ToolTip": "C:\\Users\\devan\\Downloads\\AeS.ADFSSAML_MAX (1)\\AeS.ADFSSAML_MAX\\Pages\\AuthController.cs",
+              "RelativeToolTip": "Pages\\AuthController.cs",
+              "ViewState": "AgIAADIAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-15T16:40:19.231Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ClaimsTransform.cs",
+              "DocumentMoniker": "C:\\Users\\devan\\Downloads\\AeS.ADFSSAML_MAX (1)\\AeS.ADFSSAML_MAX\\Pages\\ClaimsTransform.cs",
+              "RelativeDocumentMoniker": "Pages\\ClaimsTransform.cs",
+              "ToolTip": "C:\\Users\\devan\\Downloads\\AeS.ADFSSAML_MAX (1)\\AeS.ADFSSAML_MAX\\Pages\\ClaimsTransform.cs",
+              "RelativeToolTip": "Pages\\ClaimsTransform.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-15T16:40:15.555Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SecureQueryString.cs",
+              "DocumentMoniker": "C:\\Users\\devan\\Downloads\\AeS.ADFSSAML_MAX (1)\\AeS.ADFSSAML_MAX\\SecureQueryString.cs",
+              "RelativeDocumentMoniker": "SecureQueryString.cs",
+              "ToolTip": "C:\\Users\\devan\\Downloads\\AeS.ADFSSAML_MAX (1)\\AeS.ADFSSAML_MAX\\SecureQueryString.cs",
+              "RelativeToolTip": "SecureQueryString.cs",
+              "ViewState": "AgIAANkAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-15T16:40:07.474Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AeS.ADFSSAML_MAX",
+              "DocumentMoniker": "C:\\Users\\devan\\Downloads\\AeS.ADFSSAML_MAX (1)\\AeS.ADFSSAML_MAX\\AeS.ADFSSAML_MAX.csproj",
+              "RelativeDocumentMoniker": "AeS.ADFSSAML_MAX.csproj",
+              "ToolTip": "C:\\Users\\devan\\Downloads\\AeS.ADFSSAML_MAX (1)\\AeS.ADFSSAML_MAX\\AeS.ADFSSAML_MAX.csproj*",
+              "RelativeToolTip": "AeS.ADFSSAML_MAX.csproj*",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-15T16:38:55.345Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Startup.cs",
+              "DocumentMoniker": "C:\\Users\\devan\\Downloads\\AeS.ADFSSAML_MAX (1)\\AeS.ADFSSAML_MAX\\Startup.cs",
+              "RelativeDocumentMoniker": "Startup.cs",
+              "ToolTip": "C:\\Users\\devan\\Downloads\\AeS.ADFSSAML_MAX (1)\\AeS.ADFSSAML_MAX\\Startup.cs",
+              "RelativeToolTip": "Startup.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T05:45:54.735Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

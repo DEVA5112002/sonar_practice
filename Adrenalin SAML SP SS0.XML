@@ -1,0 +1,12 @@
+<EntityDescriptor ID="_5029a848-6e18-467e-8ac1-46a4119c7d9e" entityID="AdrenalinApp" xmlns="urn:oasis:names:tc:SAML:2.0:metadata">
+<SPSSODescriptor protocolSupportEnumeration="urn:oasis:names:tc:SAML:2.0:protocol">
+<AssertionConsumerService Binding="urn:oasis:names:tc:SAML:2.0:bindings:HTTP-POST" Location="https://localhost:44379/Auth/AssertionConsumerService" index="0" isDefault="true" />
+</SPSSODescriptor>
+<ContactPerson contactType="technical">
+<Company>Adrenalin eSystems Ltd</Company>
+<GivenName>Vijay</GivenName>
+<SurName>Kumar</SurName>
+<EmailAddress>vijayakumar.r@myadrenalin.com</EmailAddress>
+<TelephoneNumber/>
+</ContactPerson>
+</EntityDescriptor>

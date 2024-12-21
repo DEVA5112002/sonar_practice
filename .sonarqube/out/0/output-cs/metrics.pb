@@ -1,0 +1,20 @@
+Î
+IC:\Users\devan\Downloads\AeS.ADFSSAML_MAX (1)\AeS.ADFSSAML_MAX\Startup.cs$ 8
+j%tÇÉÑéêëìïñòô¢∞”·‰ÈÙr£mnopqrsuvwxy{|}~ÄÅÇÉÑÜáâä£§¶®≠Æ±≥¥µ∂∑π∫ªΩæø¿¡¬√ƒ≈∆«» À‘’÷◊ÿŸ⁄€‹›ﬁ‚„ÂÁËÍÎÌÓÒÛÙı˜¯˘˙˚¸˝˛ˇÄxÇFÅÇÜ¶®≠Æ±¥∂πªæø¡¬∆ ÷ÿ‹›‚ÂÁÍÌÒÛÙı˜˘˙Ø
+SC:\Users\devan\Downloads\AeS.ADFSSAML_MAX (1)\AeS.ADFSSAML_MAX\SecureQueryString.cs2 
+8jnjlnoqstvxy{}~ÄÇÉÑÜàäåéèêëìïóòôõùü°£•¶ß®™¨ÆØ…ÀÃÕŒ–—“‘÷◊ÿŸ€›ﬂ·„r©	
+ !"#$%'()+,-.0123456789:;<=>?@ABCDEGHIJKLMNOPQRSTUVWXYZ[\]^_`abcdefghi∞≤≥¥µ∂∑∏π∫ºΩæø¿¡¬√ƒ≈∆«»ÂÊËÈÍÎÌÓÔÒÚÙıxÇ1#-589:>BDMNQRTVXZ\^`bf¥∑∏π¿¡ƒ≈∆«ÂÍt
+IC:\Users\devan\Downloads\AeS.ADFSSAML_MAX (1)\AeS.ADFSSAML_MAX\Program.cs 8r
+Ç{
+VC:\Users\devan\Downloads\AeS.ADFSSAML_MAX (1)\AeS.ADFSSAML_MAX\Pages\Privacy.cshtml.cs 8r	
+Çy
+TC:\Users\devan\Downloads\AeS.ADFSSAML_MAX (1)\AeS.ADFSSAML_MAX\Pages\Index.cshtml.cs 8r	
+ÇÄ
+TC:\Users\devan\Downloads\AeS.ADFSSAML_MAX (1)\AeS.ADFSSAML_MAX\Pages\Error.cshtml.cs 8r
+Ç§
+WC:\Users\devan\Downloads\AeS.ADFSSAML_MAX (1)\AeS.ADFSSAML_MAX\Pages\ClaimsTransform.cs 8jr*	
+ !"#%&'()*,-./1234567xÇ!'().34|
+UC:\Users\devan\Downloads\AeS.ADFSSAML_MAX (1)\AeS.ADFSSAML_MAX\Pages\Claims.cshtml.cs 8r
+Ç±
+VC:\Users\devan\Downloads\AeS.ADFSSAML_MAX (1)\AeS.ADFSSAML_MAX\Pages\AuthController.cs 8r;	
+ !#$&'()*,-./01245679:;<=>?@BCDEFGxÇ!#,-/12456=?CD

@@ -1,0 +1,1 @@
+rRVC:\Users\devan\Downloads\AeS.ADFSSAML_MAX (1)\AeS.ADFSSAML_MAX\AeS.ADFSSAML_MAX.csproj¢netcoreapp3.1òCSharp8
